@@ -1,4 +1,4 @@
-/*write a c program to print 1 to 5 using while loop*/
+/*Write a C program to print 1 to 5 using while loop*/
 #include <stdio.h>
 int main()
 {
