@@ -1,4 +1,4 @@
-/*wap to print even numbers 1 to 10*/
+/*Write a C program to print even numbers between 1 to 10*/
 #include <stdio.h>
 int main()
 {
