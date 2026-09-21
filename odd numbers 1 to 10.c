@@ -1,4 +1,4 @@
-/*wap to print odd numbers 1 to 10*/
+/*Write a C program to print odd numbers between 1 to 10*/
 #include <stdio.h>
 int main()
 {
