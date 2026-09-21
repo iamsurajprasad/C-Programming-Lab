@@ -5,7 +5,7 @@ int main()
 	int i=1;
 	while(i<=5)
 	{
-		("%d\nprintf",i);
+		printf("%d/n",i)
 		i++;
 	}
 	return 0;
