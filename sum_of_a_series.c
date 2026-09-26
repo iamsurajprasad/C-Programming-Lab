@@ -1,5 +1,5 @@
 /*Write a C program to find sum of following series:
-5 1!+3!+5!.... upto n number
+1!+3!+5!.... upto n number
 1!=1
 3!=3*2*1=6
 5!=5*4*3*2*1=120
