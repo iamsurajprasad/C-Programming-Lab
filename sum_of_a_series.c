@@ -1,4 +1,4 @@
-/*Write a C program to find sum of following series:
+/*Write a C program to find sum of the following series:
 1!+3!+5!.... upto n number
 1!=1
 3!=3*2*1=6
