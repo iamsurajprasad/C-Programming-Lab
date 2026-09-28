@@ -1,4 +1,4 @@
-/*2+5+8+11+14+...upto n terms.
+/*2+5+8+11+14...upto n terms.
 Write a C program to calculate sum of the given series.*/
 
 #include <stdio.h>
