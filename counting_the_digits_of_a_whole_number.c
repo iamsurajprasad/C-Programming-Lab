@@ -2,14 +2,16 @@
 #include <stdio.h>
 int main()
 {
-	int count=0, num;
+	int count=0, num, digits;
 	printf("Enter a whole number: ");
 	scanf("%d",&num);
-	while(num>0)
+	while(num!=0)
 	{
+		digits=num%10;
+		printf("%d\n",digits);
 		count++;
-		num/=10;
+		num=num/10;
 	}
-	printf("Count of digits: %d\n",count);
+	printf("Counted digits are: %d\n",count);
 	return 0;
 }
