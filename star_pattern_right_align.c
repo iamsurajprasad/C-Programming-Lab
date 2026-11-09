@@ -1,4 +1,4 @@
-/*write a c program to print right align
+/*write a c program to print the following pattern:
     *
    **
   *** 
